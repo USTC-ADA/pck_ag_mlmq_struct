@@ -2,7 +2,6 @@
 - ag-sptrsv (raw)
 - pckgnn (dcu)
 - pckgnn (raw)
-- struct-sptrsv (raw)
 - struct-sptrsv (swxg)
 - mlmq (raw)
 - mlmq (l3)
